@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\B2A+B\B2A+B\bin\Debug\B2A+B.exe.config
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\B2A+B\B2A+B\bin\Debug\B2A+B.exe
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\B2A+B\B2A+B\bin\Debug\B2A+B.pdb
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\B2A+B\B2A+B\obj\Debug\B2A+B.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\B2A+B\B2A+B\obj\Debug\B2A+B.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\B2A+B\B2A+B\obj\Debug\B2A+B.exe
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\B2A+B\B2A+B\obj\Debug\B2A+B.pdb
