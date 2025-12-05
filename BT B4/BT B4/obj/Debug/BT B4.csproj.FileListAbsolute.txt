@@ -1,0 +1,11 @@
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\bin\Debug\BT B4.exe.config
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\bin\Debug\BT B4.exe
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\bin\Debug\BT B4.pdb
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\obj\Debug\BT B4.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\obj\Debug\BT_B4.Form1.resources
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\obj\Debug\BT_B4.Properties.Resources.resources
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\obj\Debug\BT B4.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\obj\Debug\BT B4.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\obj\Debug\BT B4.exe
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\obj\Debug\BT B4.pdb
+C:\Users\admin\OneDrive\Tài liệu\Lập trình trên môi trường window\BT B4\BT B4\obj\Debug\BT_B4.FormNhanVien.resources
